@@ -1,0 +1,3 @@
+[submodule "Another"]
+	path = Another
+	url = https://github.com/minospeed007/Another
